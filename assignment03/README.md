@@ -15,3 +15,14 @@ Scalability:
 Continuous Improvement:
 * OpenAI Custom GPTs can learn from interactions and feedback to improve their performance over time, ensuring that they stay relevant and accurate.
 * GPTs offer the flexibility to cater to specific requirements, making them a valuable tool for businesses and individuals seeking to leverage AI for various applications.
+# Features of Custom GPTs
+* Fine-Tuning
+* Domain Adaptation
+* Personalization
+* API Integration
+* Language Generation
+# Use Cases of Custom GPTs
+* Customer Support
+* Content Creation
+* Education and Training
+* Personal Assistants
